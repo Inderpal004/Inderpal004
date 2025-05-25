@@ -12,7 +12,13 @@
 
 
 ### Glad to see you here!  
-I'm a frontend developer based in Barnala, Punjab, currently seeking opportunities to restart my career after a brief professional experience and a career break, eager to contribute, learn, and grow in web development.  
+I'm a passionate React.js Developer with a strong focus on building dynamic, responsive, and user-friendly web applications. With expertise in React.js, Next.js, Tailwind CSS, and JavaScript, I create modern, high-performance web solutions that enhance user experience. 
+
+💻 What I Do:
+✔ Develop scalable, interactive web applications using React.js & Next.js 
+✔ Build sleek and optimized UI/UX with Tailwind CSS & SCSS 
+✔ Implement authentication & authorization with Clerk and other solutions 
+✔ Work with APIs, manage state efficiently using Redux Toolkit, and optimize performance   
   
 
 <br/>  
